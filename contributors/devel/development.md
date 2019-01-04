@@ -141,7 +141,8 @@ development environment, please [set one up](http://golang.org/doc/code.html).
 | 1.8            | 1.8.3       |
 | 1.9            | 1.9.1       |
 | 1.10           | 1.9.1       |
-| 1.11+          | 1.10.2      |
+| 1.11, 1,12     | 1.10.2      |
+| 1.13+          | 1.11.1      |
 
 Ensure your GOPATH and PATH have been configured in accordance with the Go
 environment instructions.
